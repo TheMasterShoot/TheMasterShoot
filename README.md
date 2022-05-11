@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there!! 👋, I'm Bryan Santos
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMasterShoot&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Snake animation](https://github.com/TheMasterShoot/TheMasterShoot/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **TheMasterShoot/TheMasterShoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
