@@ -1,11 +1,5 @@
 ### Hi there!! 👋, I'm Bryan Santos
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMasterShoot&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Snake animation](https://github.com/TheMasterShoot/TheMasterShoot/blob/output/github-contribution-grid-snake.svg)
-
-
 <!--
 **TheMasterShoot/TheMasterShoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div >
+  <a href="https://github.com/TheMasterShoot">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=TheMasterShoot&show_icons=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMasterShoot&layout=compact&langs_count=6"/>
+</div>
+![Snake animation](https://github.com/TheMasterShoot/TheMasterShoot/blob/output/github-contribution-grid-snake.svg)
+
+
+
