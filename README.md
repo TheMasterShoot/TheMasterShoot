@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on web programming
 - 🌱 I’m currently learning React
-<!-- - 📫 How to reach me: ... -->
-
 
 <div >
   <a href="https://github.com/TheMasterShoot">
