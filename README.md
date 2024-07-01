@@ -1,7 +1,6 @@
 ### Hi there!! 👋, I'm Bryan Santos
 
 - 🔭 I’m currently working on web programming
-- 🌱 I’m currently learning React
 
 <div >
   <a href="https://github.com/TheMasterShoot">
