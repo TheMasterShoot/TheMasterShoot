@@ -33,8 +33,8 @@
   ##
  
   <div>
-    <a href="https://www.linkedin.com/in/bryan-santos-3866a4a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/bsantos0211/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--     <a href="https://www.linkedin.com/in/bryan-santos-3866a4a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/bsantos0211/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
  
   ![Snake animation](https://raw.githubusercontent.com/TheMasterShoot/TheMasterShoot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![Snake animation](https://raw.githubusercontent.com/TheMasterShoot/TheMasterShoot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
