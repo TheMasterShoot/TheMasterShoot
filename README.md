@@ -2,13 +2,16 @@
 
 - 🔭 I’m currently working on web programming
 
-<div >
+<div>
   <a href="https://github.com/TheMasterShoot">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=TheMasterShoot&theme=github_light&show_icons=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMasterShoot&layout=compact&langs_count=6&theme=github_light"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=TheMasterShoot&theme=github_light&show_icons=true"/>
+  </a>
+  <a href="https://github.com/TheMasterShoot">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMasterShoot&layout=compact&langs_count=6&theme=github_light"/>
+  </a>
 </div>
   
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="Bry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bry-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -28,14 +31,19 @@
   <img align="center" alt="Bry-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>  
   
-  ##
+##
  
-  <div>
-<!--     <a href="https://www.linkedin.com/in/bryan-santos-3866a4a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/bsantos0211/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
- 
-  ![Snake animation](https://raw.githubusercontent.com/TheMasterShoot/TheMasterShoot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![Snake animation](https://raw.githubusercontent.com/TheMasterShoot/TheMasterShoot/output/github-contribution-grid-snake.svg#gh-light-mode-only)
- </div>
+<div>
+  <!-- 
+  <a href="https://www.linkedin.com/in/bryan-santos-3866a4a3/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/bsantos0211/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 
+  -->
 
+  <img src="https://raw.githubusercontent.com/TheMasterShoot/TheMasterShoot/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/TheMasterShoot/TheMasterShoot/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+</div>
 
