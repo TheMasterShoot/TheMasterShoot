@@ -11,11 +11,11 @@
 <p align="center">
   <img height="170em"
        src="https://github-stats-extended.vercel.app/api?username=TheMasterShoot&show_icons=true&theme=github_light"
-       alt="GitHub Stats"/>
+       width="40%" alt="GitHub Stats"/>
 
   <img height="170em"
        src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheMasterShoot&layout=compact&langs_count=6&theme=github_light"
-       alt="Top Languages"/>
+       width="40%" alt="Top Languages"/>
 </p>
 
 <!-- GITHUB STREAK -->
