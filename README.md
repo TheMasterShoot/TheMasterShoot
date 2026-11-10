@@ -7,15 +7,21 @@
 </p>
 
 ---
-
-<!-- STATS -->
+<!-- GITHUB STATS -->
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TheMasterShoot&show_icons=true&theme=github_light&cache_seconds=1800"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMasterShoot&layout=compact&langs_count=6&theme=github_light&cache_seconds=1800"/>
+  <img height="170em"
+       src="https://github-stats-extended.vercel.app/api?username=TheMasterShoot&show_icons=true&theme=github_light"
+       alt="GitHub Stats"/>
+
+  <img height="170em"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheMasterShoot&layout=compact&langs_count=6&theme=github_light"
+       alt="Top Languages"/>
 </p>
 
+<!-- GITHUB STREAK -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheMasterShoot&theme=github-light&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=TheMasterShoot&theme=github-light"
+       alt="GitHub Streak"/>
 </p>
 
 ---
