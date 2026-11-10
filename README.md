@@ -9,13 +9,15 @@
 ---
 <!-- GITHUB STATS -->
 <p align="center">
-  <img height="170em"
-       src="https://github-stats-extended.vercel.app/api?username=TheMasterShoot&show_icons=true&theme=github_light"
-       width="40%" alt="GitHub Stats"/>
-
-  <img height="170em"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheMasterShoot&layout=compact&langs_count=6&theme=github_light"
-       width="40%" alt="Top Languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=TheMasterShoot&show_icons=true&theme=github_light"
+    height="180" width="43%" valign="middle"
+    alt="GitHub Stats"
+  /><img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheMasterShoot&layout=compact&langs_count=6&theme=github_light"
+    height="177" width="42%" valign="middle"
+    alt="Top Languages"
+  />
 </p>
 
 <!-- GITHUB STREAK -->
