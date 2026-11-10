@@ -3,7 +3,7 @@
 <!-- <h3 align="center">Full Stack Developer | Angular • React • Node • .NET</h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+scalable+web+applications;Clean+code+%2B+performance+focused;Always+learning+new+technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Clean+Code+%2B+Performance+Focused;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
